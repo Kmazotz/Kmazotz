@@ -18,7 +18,7 @@ Actualmente estoy trabajando en dominar los **microfrontends** y perfeccionando 
 - **[Nombre del Proyecto 1](enlace al repositorio)**: Descripción breve 
 
 ## 🤝 Conecta conmigo
-- **[LinkedIn](https://www.linkedin.com/in/brayan-alexis-angulo-rodriguez-6a86471a2/)**
+- **[LinkedIn](www.linkedin.com/in/brayan-alexis-angulo-rodriguez-6a86471a2)**
 [- **[Portafolio](enlace a tu portafolio o página personal)**]:#
 
 ¡Gracias por visitar mi perfil! 🚀
