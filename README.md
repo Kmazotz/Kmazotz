@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Kmazotz
-- 👀 I am interested in learning new languages and constantly innovating.
-- 🌱 I’m currently learning C#, F#, XAMARIN and Node.js
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to contact me send me an email to *brayan.1107.ar@gmail.com*
+# 👋 ¡Hola, soy Brayan!
 
-<!---
-Kmazotz/Kmazotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy un desarrollador de software apasionado con experiencia en diversas tecnologías backend y frontend. Me encanta construir soluciones eficientes y trabajar con tecnologías modernas.
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes**: C#, .NET, TypeScript, JavaScript, Node.js, básico en Java y Python.
+- **Frontend**: React, Vue.js, desarrollo de UI intuitivas y accesibles.
+- **Backend**: Microservicios, API REST, y arquitecturas escalables.
+- **Mobile**: React Native, Xamarin.
+- **Patrones Avanzados**: Microfrontends, integración y despliegue continuo.
+
+## 📌 Lo que estoy aprendiendo
+Actualmente estoy trabajando en dominar los **microfrontends** y perfeccionando mis habilidades en **desarrollo móvil**.
+
+## 🌟 Proyectos Destacados
+
+- **[Nombre del Proyecto 1](enlace al repositorio)**: Descripción breve 
+
+## 🤝 Conecta conmigo
+- **[LinkedIn](https://www.linkedin.com/in/brayan-alexis-angulo-rodriguez-6a86471a2/)**
+[- **[Portafolio](enlace a tu portafolio o página personal)**]:#
+
+¡Gracias por visitar mi perfil! 🚀
