@@ -15,7 +15,7 @@ Actualmente estoy trabajando en dominar los **microfrontends** y perfeccionando 
 
 ## 🌟 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](enlace al repositorio)**: Descripción breve 
+- **[Microfrontents con NX](https://github.com/Kmazotz/microfrontends-nextjs)**: Contiene una configuración basica con un mono repo en NX, Next.js y manejo de estados globales con Zustand 
 
 ## 🤝 Conecta conmigo
 - **[LinkedIn](www.linkedin.com/in/brayan-alexis-angulo-rodriguez-6a86471a2)**
